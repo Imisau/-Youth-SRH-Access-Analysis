@@ -18,6 +18,10 @@ The project demonstrates how routine program data can be transformed into **deci
 - STI Treatment
 - Contraceptive Provision
 - Family Planning (FP) Counseling
+
+# Process
+Cleaned data was downloaded onto local storage and then connected a MySQL workbench for analysis. This include using GROUP BY clause or CASE WHEN statement to calculate aggregate attrition rates base on employee factors other factor like role, department, income, and years with the company. All insight translated to a user friendly visual made in Power BI. Other Functions are used to transform data using DAX and Power Query in Power BI. Data validations, evaluations, predictions and statistical operations are performed using Excel and Jupyter Notebook, using Pandas and Numpy 
+
 # Key Indicators Included
 - Service uptake and non-service rates
 - Gender access differentials
@@ -58,6 +62,7 @@ Service Type	Male	Female
 
 # Outreach Effectiveness
 ![](https://github.com/Imisau/-Youth-SRH-Access-Analysis/blob/main/map_outreach_effectiveness.png)
+
 Community-based delivery channels outperform facility-based services in:
 - **Rural LGAs**
 - **Adolescents aged 15–19**
