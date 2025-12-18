@@ -20,7 +20,7 @@ The project demonstrates how routine program data can be transformed into **deci
 - Family Planning (FP) Counseling
 
 # Process
-Cleaned data was downloaded onto local storage and then connected a MySQL workbench for analysis. This include using GROUP BY clause or CASE WHEN statement to calculate aggregate attrition rates base on employee factors other factor like role, department, income, and years with the company. All insight translated to a user friendly visual made in Power BI. Other Functions are used to transform data using DAX and Power Query in Power BI. Data validations, evaluations, predictions and statistical operations are performed using Excel and Jupyter Notebook, using Pandas and Numpy 
+The dataset was downloaded onto local storage and then connected a MySQL workbench for analysis. This include using GROUP BY clause or CASE WHEN statement to calculate aggregate attrition rates base on employee factors other factor like role, department, income, and years with the company. All insight translated to a user friendly visual made in Power BI. Other Functions are used to transform data using DAX and Power Query in Power BI. Data validations, evaluations, predictions and statistical operations are performed using Excel and Jupyter Notebook, using Pandas and Numpy 
 
 # Key Indicators Included
 - Service uptake and non-service rates
