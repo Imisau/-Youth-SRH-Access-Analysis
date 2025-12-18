@@ -57,9 +57,8 @@ Service Type	Male	Female
 •	States with stronger outreach and urban infrastructure (Lagos, Niger) perform relatively better.
 
 # Outreach Effectiveness
-Community-based delivery channels outperform facility-based services in:
-
 ![](https://github.com/Imisau/-Youth-SRH-Access-Analysis/blob/main/map_outreach_effectiveness.png)
+Community-based delivery channels outperform facility-based services in:
 - **Rural LGAs**
 - **Adolescents aged 15–19**
 This is particularly evident for **FP counseling and contraceptive provision,** where facilities remain underutilized by younger adolescents.
