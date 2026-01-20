@@ -72,8 +72,11 @@ This is particularly evident for **FP counseling and contraceptive provision,** 
 - **Total Youth Reached:** 1,000
 - **Unmet Need:** 0.00 (modeled dataset)
 - **Key Equity Risks Identified:**
+
 1 Age (15–19)
+
 2 Rural residence
+
 3 Female adolescents facing stigma
   
 # Programmatic Implications
@@ -81,14 +84,18 @@ This is particularly evident for **FP counseling and contraceptive provision,** 
 1 **Scale Community-Based Outreach**
 - Focus on high-gap rural LGAs
 - Target adolescents aged 15–19
+
 2 **Strengthen FP Commodity Logistics**
 - Reduce stockout-driven non-service
 - Improve last-mile distribution in rural settlements
+
 3 **Integrate Peer Educator Models**
 - Address stigma affecting female adolescents
 - Increase acceptability of SRH services
+
 4 **Improve Provider Availability**
 - Task shifting and mobile outreach in low-coverage LGAs
+
 5 **Institutionalize Equity Dashboards**
 - Track age, gender, and rural–urban gaps routinely
 - Support adaptive programming and real-time decision-making
