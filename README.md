@@ -99,5 +99,10 @@ This portfolio project demonstrates the ability to:
 - Identify hidden access gaps masked by aggregate coverage
 - Translate analytics into clear programmatic actions
 - Support donor reporting, state planning, and adaptive management
+
+### Author
+#### Emmanuel Kyauta
+Monitoring, Evaluation, Research & Learning (MERL) | Strategic Health Data Analyst Power BI • DAX • SQL • Python • Donor Decision Analytics
+
 #### Download_dataset Youth_SRH_Service_Access [Here](https://github.com/Imisau/-Youth-SRH-Access-Analysis/blob/main/Youth_SRH_Service_Access_1000rows.xlsx)
 
